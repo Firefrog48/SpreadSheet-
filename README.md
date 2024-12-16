@@ -73,8 +73,4 @@ sheet->PrintValues(std::cout);
 - [Официальный сайт ANTLR](https://www.antlr.org/)
 - [Java SE Runtime Environment](https://www.oracle.com/java/technologies/downloads/#java8)
 
-**Контактная информация:**
-- Для вопросов и предложений можно обращаться к разработчикам проекта через GitHub Issues.
 
-**Лицензия:**
-- Проект распространяется под лицензией [указать лицензию].
